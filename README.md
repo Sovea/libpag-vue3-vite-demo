@@ -1,6 +1,6 @@
 # Vue 3 + Vite + libpag
 
-This template should help get you started developing with libpag and Vue 3 in Vite.
+This template should help get you started developing with libpag and Vue 3 in Vite. Use rollup-plugin-copy to make the project packaged by vite can access libpag.wasm
 
 ## Build Setup
 
